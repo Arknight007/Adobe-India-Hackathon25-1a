@@ -1,8 +1,11 @@
 # Adobe-India-Hackathon25-1a
-[![Docker Image](https://img.shields.io/badge/docker-ready-blue)](https://www.docker.com/) [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE) [![Schema Version](https://img.shields.io/badge/schema-draft--07-orange)](sample_dataset/schema/output_schema.json)
-### Submission for Adobe India Hackathon 2025 challenge 1a
+Submission for Adobe India Hackathon 2025 challenge 1a
 
-Overview: This project processes a set of PDF documents and extracts a hierarchical outline of headings (levels H1–H3) along with their page numbers. Each PDF in `sample_dataset/pdfs/` yields a corresponding JSON file in `sample_dataset/outputs/` that conforms to a strict JSON schema.
+[![Docker Image](https://img.shields.io/badge/docker-ready-blue)](https://www.docker.com/) [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE) [![Schema Version](https://img.shields.io/badge/schema-draft--07-orange)](sample_dataset/schema/output_schema.json)
+
+
+### Overview
+This project processes a set of PDF documents and extracts a hierarchical outline of headings (levels H1–H3) along with their page numbers. Each PDF in `sample_dataset/pdfs/` yields a corresponding JSON file in `sample_dataset/outputs/` that conforms to a strict JSON schema.
 
 ## Table of Contents
 
